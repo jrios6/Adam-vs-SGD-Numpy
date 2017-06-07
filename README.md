@@ -14,7 +14,7 @@ This is a response to Siraj Raval's [Coding Challenge](https://github.com/llSour
 ### Usage
 Run `jupyter notebook` in your Python 3 conda environment
 
-With reference to:
+### With reference to:
 1. [Adam: A method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) by Diederik P. Kingma, Jimmy Ba  
 2. [CS231: Neural Networks](http://cs231n.github.io/neural-networks-3/#update) by Andrej Karpathy
 3. [Optimizing Gradient Descent](http://sebastianruder.com/optimizing-gradient-descent/index.html#adam) by Sebastian Ruder
