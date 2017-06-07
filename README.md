@@ -7,10 +7,12 @@ This is a response to Siraj Raval's [Coding Challenge](https://github.com/llSour
 
 
 ### Requirements
-numpy  
-pandas  
-matplotlib  
+* numpy
+* pandas
+* matplotlib
 
+### Usage
+Run `jupyter notebook` in your Python 3 conda environment
 
 With reference to:
 1. [Adam: A method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) by Diederik P. Kingma, Jimmy Ba  
