@@ -7,9 +7,9 @@ This is a response to Siraj Raval's [Coding Challenge](https://github.com/llSour
 
 
 ### Requirements
-numpy
-pandas
-matplotlib
+numpy  
+pandas  
+matplotlib  
 
 
 With reference to:
